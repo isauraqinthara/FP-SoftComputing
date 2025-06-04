@@ -36,7 +36,7 @@ Pengangkutan dilakukan oleh sejumlah arm-roll truck dengan keterbatasan kapasita
    [LINK Colab](https://colab.research.google.com/drive/1_H-QvKWbJtYxu17Z7ax4m5ZQlVGaOhpj)
 2. **Unggah Dataset**  
    Dataset yang dibutuhkan:  
-   `SURABAYA PUSAT TPA BENOWO - Sheet1.csv`  
+   `SURABAYA PUSAT TPA BENOWO`  
    Contoh kode untuk upload:
    ```python
    from google.colab import files
